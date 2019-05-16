@@ -1,0 +1,28 @@
+# IntelliJ
+*.iml
+.idea/
+*.ipr
+*.iws
+out/
+.idea_modules/
+
+# Eclipse
+.metadata
+.classpath
+.project
+.settings/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+
+# Java
+/target
+*.class
+
+# OSX
+.DS_Store
