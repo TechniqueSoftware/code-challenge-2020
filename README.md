@@ -1,4 +1,4 @@
-# Java Code Challenge - 2019
+# Java Code Challenge - 2020
 
 In this code challenge, you'll demonstrate your programming abilities by building an aggregate service. We expect the challenge to take you about two hours.
 
